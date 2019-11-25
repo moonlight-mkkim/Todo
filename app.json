@@ -2,6 +2,7 @@
   "expo": {
     "name": "To Do",
     "slug": "Todo",
+    "description" : "Todo example made with react-native",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
